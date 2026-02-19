@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.6.1">
+    <DOCUMENT ANZPAGES="2" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Letter" FIRSTNUM="1" BOOK="0" AUTOTEXT="1" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="2" DFONT="DejaVu Sans Book" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="14.4" MAJGRID="72" SHOWGRID="1" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0016" ScratchLeft="100.0008" ScratchRight="100.0008" ScratchTop="20.0016" GapHorizontal="0" GapVertical="40.0032" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0008" dispY="10.0008" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="DejaVu Sans Book" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20.0016" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="G3000-series" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0016" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="Section 1" From="0" To="1" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="Normal" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="852.0048" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="1" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="56.0016" OwnPage="0" ItemID="527501948" PTYPE="4" WIDTH="540" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 720 L0 720 L0 0 Z" copath="M0 0 L540 0 L540 720 L0 720 L0 0 Z" gXpos="136.0008" gYpos="56.0016" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="527505276" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="888.0048" OwnPage="1" ItemID="527505276" PTYPE="4" WIDTH="540" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="11" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 720 L0 720 L0 0 Z" copath="M0 0 L540 0 L540 720 L0 720 L0 0 Z" gXpos="136.0008" gYpos="888.0048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="527501948"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="128.0016" OwnPage="0" ItemID="530211628" PTYPE="4" WIDTH="252" HEIGHT="648" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252 0 L252 648 L0 648 L0 0 Z" copath="M0 0 L252 0 L252 648 L0 648 L0 0 Z" gXpos="136.0008" gYpos="128.0016" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="424.0008" YPOS="128.0016" OwnPage="0" ItemID="529603660" PTYPE="4" WIDTH="252" HEIGHT="648" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252 0 L252 648 L0 648 L0 0 Z" copath="M0 0 L252 0 L252 648 L0 648 L0 0 Z" gXpos="424.0008" gYpos="128.0016" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="888.0048" OwnPage="1" ItemID="532267228" PTYPE="4" WIDTH="252" HEIGHT="468" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252 0 L252 468 L0 468 L0 0 Z" copath="M0 0 L252 0 L252 468 L0 468 L0 0 Z" gXpos="136.0008" gYpos="888.0048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="424.0008" YPOS="888.0048" OwnPage="1" ItemID="526743468" PTYPE="4" WIDTH="252" HEIGHT="468" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252 0 L252 468 L0 468 L0 0 Z" copath="M0 0 L252 0 L252 468 L0 468 L0 0 Z" gXpos="424.0008" gYpos="888.0048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="1374.0048" OwnPage="1" ItemID="526748828" PTYPE="4" WIDTH="252" HEIGHT="234" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252 0 L252 234 L0 234 L0 0 Z" copath="M0 0 L252 0 L252 234 L0 234 L0 0 Z" gXpos="136.0008" gYpos="1374.0048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="IYou will receive a Vistor Guide when you enter the park. If you have kids with you they can participate in the Discovery Quest and receive a special Centennial patch."/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="1356.0048" OwnPage="1" ItemID="526930860" PTYPE="4" WIDTH="252" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252 0 L252 18 L0 18 L0 0 Z" copath="M0 0 L252 0 L252 18 L0 18 L0 0 Z" gXpos="136.0008" gYpos="1356.0048" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESPMode="1" FONT="DejaVu Serif Book"/>
+                <ITEXT CH="When You Visit"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="424.0008" YPOS="1356.0048" OwnPage="1" ItemID="527081132" PTYPE="4" WIDTH="252" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252 0 L252 18 L0 18 L0 0 Z" copath="M0 0 L252 0 L252 18 L0 18 L0 0 Z" gXpos="424.0008" gYpos="1356.0048" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESPMode="1" FONT="DejaVu Serif Book"/>
+                <ITEXT CH="About MBFIA"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="424.0008" YPOS="1374.0048" OwnPage="1" ItemID="527447868" PTYPE="4" WIDTH="252" HEIGHT="252" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252 0 L252 252 L0 252 L0 0 Z" copath="M0 0 L252 0 L252 252 L0 252 L0 0 Z" gXpos="424.0008" gYpos="1374.0048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="10"/>
+                <ITEXT CH="The McArthur-Burney Falls Interactive Association provides community support for Burney Falls, Castle Crags, and Ahjumawi State Parks. Join us in volunteering for opportunties in the parks, including: MBF Visitor Center &amp; Gift Shop, Volunteer Work Days, Board Membership. and the Centennial Heritage Day October 12. Call Jim at (530) 513-7102 in you are interested in helping."/>
+                <para/>
+                <ITEXT CH="Members: Jim Sacson, President; Blair Publos, CA State Parks; Ann Sacson, Seretary; Bill McSweeney; Bob Boyce, Webmaster; Craig Harrington, Intermountain News; Jaci White, Treasurer; Alice Hoveman; Jill Overbaugh; Mark Downie, VP; Marlon Sloan, Visitor Guide editor; Terri Ashe; Tom Stockton; Tony Otto, Newsletter editor. "/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="604.0008" YPOS="56.0016" OwnPage="0" ItemID="536057404" PTYPE="2" WIDTH="72" HEIGHT="72" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.486486486486487" LOCALSCY="0.486486486486487" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../Art/Logos/ParksLogo.png" IRENDER="0" EMBEDDED="0" path="M0 0 L72 0 L72 72 L0 72 L0 0 Z" copath="M0 0 L72 0 L72 72 L0 72 L0 0 Z" gXpos="604.0008" gYpos="56.0016" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="56.0016" OwnPage="0" ItemID="543826108" PTYPE="2" WIDTH="54" HEIGHT="72" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.380281690140845" LOCALSCY="0.380281690140845" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../Art/Logos/MBFIA.png" IRENDER="0" EMBEDDED="0" path="M0 0 L54 0 L54 72 L0 72 L0 0 Z" copath="M0 0 L54 0 L54 72 L0 72 L0 0 Z" gXpos="136.0008" gYpos="56.0016" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="208.0008" YPOS="63.2016" OwnPage="0" ItemID="511564764" PTYPE="4" WIDTH="378" HEIGHT="27" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L378 0 L378 27 L0 27 L0 0 Z" copath="M0 0 L378 0 L378 27 L0 27 L0 0 Z" gXpos="208.0008" gYpos="63.2016" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1"/>
+                <ITEXT FONT="DejaVu Serif Book" FONTSIZE="15" CH="McArthur-Burney Falls Interactive Association"/>
+                <ITEXT CH=" centennial"/>
+                <trail LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="208.0008" YPOS="92.0016" OwnPage="0" ItemID="527814044" PTYPE="4" WIDTH="378" HEIGHT="27" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L378 0 L378 27 L0 27 L0 0 Z" copath="M0 0 L378 0 L378 27 L0 27 L0 0 Z" gXpos="208.0008" gYpos="92.0016" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="13" CH="April 2026 Newsletter - Celebrating the Centennial Year"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="424.0008" YPOS="524.533172496984" OwnPage="0" ItemID="529705564" PTYPE="4" WIDTH="250.257342340169" HEIGHT="250.86369119421" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L250.257 0 L250.257 250.864 L0 250.864 L0 0 Z" copath="M0 0 L250.257 0 L250.257 250.864 L0 250.864 L0 0 Z" gXpos="424.0008" gYpos="524.533172496984" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Welcome from the MBFIA President:"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="xx"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="Better Picture!"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.809408926417" YPOS="526.516284680338" OwnPage="0" ItemID="536050396" PTYPE="4" WIDTH="248.191391073583" HEIGHT="246.897466827503" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L248.191 0 L248.191 246.897 L0 246.897 L0 0 Z" copath="M0 0 L248.191 0 L248.191 246.897 L0 246.897 L0 0 Z" gXpos="139.809408926417" gYpos="526.516284680338" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Welcome from the CA State "/>
+                <para/>
+                <ITEXT CH="First District Assemblywoman, "/>
+                <para/>
+                <ITEXT CH="Heather Hadwick:"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="623.688781664656" YPOS="715.903498190591" OwnPage="0" ItemID="527390460" PTYPE="2" WIDTH="46.6031363088059" HEIGHT="60.0981018094089" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.646216148488268" LOCALSCY="0.646216148488268" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../Art/Headshots/JimSacson.png" IRENDER="0" EMBEDDED="0" path="M0 0 L46.6031 0 L46.6031 60.0981 L0 60.0981 L0 0 Z" copath="M0 0 L46.6031 0 L46.6031 60.0981 L0 60.0981 L0 0 Z" gXpos="623.688781664656" gYpos="715.903498190591" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="327.213510253317" YPOS="528.499396863691" OwnPage="0" ItemID="543132364" PTYPE="2" WIDTH="57.5102533172497" HEIGHT="70.400482509047" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.184778169315084" LOCALSCY="0.184778169315084" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../Art/Headshots/Hadwick.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L57.5103 0 L57.5103 70.4005 L0 70.4005 L0 0 Z" copath="M0 0 L57.5103 0 L57.5103 70.4005 L0 70.4005 L0 0 Z" gXpos="327.213510253317" gYpos="528.499396863691" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="424.0008" YPOS="128.0016" OwnPage="0" ItemID="537787004" PTYPE="4" WIDTH="252" HEIGHT="396" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252 0 L252 396 L0 396 L0 0 Z" copath="M0 0 L252 0 L252 396 L0 396 L0 0 Z" gXpos="424.0008" gYpos="128.0016" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="1926 State Legislature Proocumation creating McArthur Burney State Park:"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <para/>
+                <ITEXT CH="x"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="138.817852834741" YPOS="926.113389626056" OwnPage="1" ItemID="539852748" PTYPE="4" WIDTH="246.897466827503" HEIGHT="395.630880579011" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L246.897 0 L246.897 395.631 L0 395.631 L0 0 Z" copath="M0 0 L246.897 0 L246.897 395.631 L0 395.631 L0 0 Z" gXpos="138.817852834741" gYpos="926.113389626056" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="10" CH="x"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="x"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="x"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="x"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="x"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Firewood Sales: Firewood sales at both parks were up last year. Campers enjoy the warmth"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="of a nice evening fire without the hassle of bringing their own wood with them, and having"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="firewood available at the parks reduces the possibility of inadvertently bringing along harmful"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="insects. The firewood we provide is acceptable, provided by Cal-Fire crews, and coordinated"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="through the park system."/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Campground Hosts: In 2023, we had a shortage of campground hosts. Hosts get a free, preferred camping site for the season in return for assisting Park staff by manning their assigned"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="areas in the park, answering visitor questions, etc. If you have an interest in doing so or know"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="of someone who might be, please contact the park at 530-335-2777"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="424.0008" YPOS="924.0048" OwnPage="1" ItemID="543081628" PTYPE="4" WIDTH="252" HEIGHT="432" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252 0 L252 432 L0 432 L0 0 Z" copath="M0 0 L252 0 L252 432 L0 432 L0 0 Z" gXpos="424.0008" gYpos="924.0048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="10" CH="Burney Falls Volunteer Day:"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="New this year will be a volunteer day at the Park Saturday, September 14th. This will be an"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="ideal day for nature enthusiasts and youth organizations to assist us in cleaning up the park,"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="making minor repairs, etc. Board Member Bill McSweeney is heading up this project and we’ll"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="have more information as the date approaches."/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Castle Crags Park"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="We’ll be putting additional emphasis on Castle Crags State Park in 2024 and we’re open to ideas and suggestions. What activities would you like to see there? How can the association,"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Friends of the Crags, do a better job in supporting that Park?"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Thanks to every member of Friends of the Falls and Friends of the Crags for your interest and"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="dedication to the future well-being of the parks."/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Friends"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="If you have a friend or relative who might be interested in becoming a member of"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Friends of the Falls or Friends of the Crags, all they have to do is go online to either"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="website, click on the link and sign up! It’s free! And you’ll be their hero for giving"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="them the link! "/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="138.817852834741" YPOS="165.589867310012" OwnPage="0" ItemID="542497836" PTYPE="4" WIDTH="244.91435464415" HEIGHT="285.568154402895" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L244.914 0 L244.914 285.568 L0 285.568 L0 0 Z" copath="M0 0 L244.914 0 L244.914 285.568 L0 285.568 L0 0 Z" gXpos="138.817852834741" gYpos="165.589867310012" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="This spring we begin the Centennial year of McArthur-Burney Falls that was created in 1926."/>
+                <para/>
+                <para/>
+                <ITEXT CH="The mountain trees and wildflowers are popping out. And the streams are overflowing as snowmelt makes its way from Burney Mountain along Burney Creek and nearby springs to cascade over Burney Falls. Hikers are also popping out along the Pacific Crest Trail"/>
+                <para/>
+                <ITEXT CH="through McArthur-Burney Falls Park onward to Castle Crags. "/>
+                <para/>
+                <ITEXT CH="If you are interested in sponsoring a Memorial Table, ...."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="172.0008" YPOS="380.0016" OwnPage="0" ItemID="529567900" PTYPE="2" WIDTH="216" HEIGHT="108" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.375" LOCALSCY="0.375" LOCALX="82.6645333333333" LOCALY="56.141535987133" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../Art/Photos/Table.png" IRENDER="0" EMBEDDED="0" path="M0 0 L216 0 L216 108 L0 108 L0 0 Z" copath="M0 0 L216 0 L216 108 L0 108 L0 0 Z" gXpos="172.0008" gYpos="380.0016" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
